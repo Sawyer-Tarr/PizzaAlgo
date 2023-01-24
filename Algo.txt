@@ -1,2 +1,4 @@
 Decide which business to order from
-Decide which piss to order
+Decide which pizza to order
+Get pizza delivered 
+Pay for pizza

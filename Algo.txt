@@ -2,3 +2,5 @@ Decide which business to order from
 Decide which pizza to order
 Get pizza delivered 
 Pay for pizza
+Choose Netflix movie
+Feel proud for eating entire pizza
